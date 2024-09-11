@@ -16,6 +16,14 @@ Emplos en Python sobres listas, tuplas, conjuntos diccionarios
   - Resultado
   - ![image](https://github.com/user-attachments/assets/9a227ff1-7995-4f9f-be48-b0c199412218)
 
+## ejemplo de diccionario 
+- codigo
+- ![image](https://github.com/user-attachments/assets/2d26756f-ea4a-4bb8-8bd9-8f10788978ea)
+
+- resultado
+- ![image](https://github.com/user-attachments/assets/bc705d3a-67f7-4760-9ab8-c3033ced3027)
+
+
     
 
 
